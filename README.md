@@ -1,13 +1,14 @@
 <div align="center">  
   <p>
-    <img src="https://user-images.githubusercontent.com/7887699/39698157-4fb76ce4-5211-11e8-8efc-36427f9dad83.png"/>
+    <img src="https://github.com/user-attachments/assets/aa64ec32-f9f5-4a8a-97ba-49944b442110"/>
+
   </p>
   <h1># 📈 Track Cryptocurrency Price Using API</h1>
   <p>
     <strong>Track Crypto </strong> is a real-time Cryptocurrency price tracker using React js + Coingecko API
   </p>
     <p>
-    <a href="https://trackcryptocurrency.netlify.app/">
+    <a href="https://crypto-currency-tracker-livid.vercel.app/">
       Demo
     </a>
   </p>
@@ -16,15 +17,16 @@
 ## 👨🏻‍💻 Demo ScreenShots
 
 Desktop View
+ <img src="https://github.com/user-attachments/assets/2c21fe0d-8abf-4a26-9b60-c9df24b91c63"/>
 
-![desktop-view](https://raw.githubusercontent.com/manojsai1/Image-Editor-Code/master/Screenshot%202022-05-08%20at%2012.07.09%20PM.png)
+
 
 ## 💻 Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/manojsai1/Crypto-price-tracker
+   https://github.com/shindodkar/crypto-currency-tracker.git
 ```
 
 Go to the project directory
@@ -55,10 +57,6 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-
-## 📜 Documentation
-
-[React](https://reactjs.org/docs/getting-started.html)
 
 ## ⚙️ Tools/Library Used
 
